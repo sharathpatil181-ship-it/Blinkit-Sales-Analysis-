@@ -1,5 +1,3 @@
-# Blinkit-Sales-Analysis-
-This project analyzes Blinkit's grocery sales data using Microsoft Power BI.  The dashboard provides insights into sales performance, product categories,  outlet characteristics, customer ratings, and outlet locations.
 # Blinkit Sales Analysis | Power BI
 
 ## 📊 Project Overview
@@ -36,24 +34,6 @@ The dataset contains grocery sales and outlet-related information, including:
 - Outlet Establishment Year
 - Item Rating
 
-## 📈 Dashboard Features
-
-The dashboard provides analysis of:
-
-- Total Sales
-- Average Sales
-- Number of Items
-- Average Rating
-- Sales by Fat Content
-- Fat Content by Outlet
-- Sales by Item Type
-- Sales by Outlet Establishment Year
-- Sales by Outlet Size
-- Sales by Outlet Location
-- Outlet Type performance
-- Item Visibility
-- Interactive filters and slicers
-
 ## 📌 Key KPIs
 
 The dashboard includes the following key performance indicators:
@@ -62,14 +42,6 @@ The dashboard includes the following key performance indicators:
 - Average Sales
 - Number of Items
 - Average Rating
-
-## 🎛️ Interactive Filters
-
-Users can filter the dashboard using:
-
-- Outlet Location Type
-- Outlet Size
-- Item Type
 
 ## 🔍 Key Analysis
 
@@ -85,21 +57,8 @@ The dashboard helps analyze how sales vary across different:
 This allows users to identify sales patterns and compare the performance 
 of different outlet and product segments.
 
-## 📷 Dashboard Preview
+<h2>📷 Dashboard Preview</h2>
 
-![Blinkit Sales Dashboard](Dashboard/blinkit-dashboard.png)
-
-## 📂 Project Structure
-
-```text
-Blinkit-Sales-Analysis-PowerBI/
-│
-├── README.md
-├── Blinkit Sales Analysis.pbix
-├── Dataset/
-│   └── BlinkIT Grocery Data.xlsx
-├── Dashboard/
-│   └── blinkit-dashboard.png
-└── Screenshots/
-    ├── overview.png
-    └── analysis.png
+<p align="center">
+  <img src="Dashboard/blinkit-dashboard.png" alt="Blinkit Sales Dashboard" width="900">
+</p>
