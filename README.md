@@ -59,4 +59,4 @@ of different outlet and product segments.
 
 <h2>📷 Dashboard Preview</h2>
 
-<a href="">View Dashboard </a>
+<a href="Screenshot 2026-08-23 232739.png">View Dashboard </a>
