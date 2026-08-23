@@ -60,5 +60,5 @@ of different outlet and product segments.
 <h2>📷 Dashboard Preview</h2>
 
 <p align="center">
-  <img src="Dashboard/blinkit-dashboard.png" alt="Blinkit Sales Dashboard" width="900">
+  <img src="Screenshot 2026-08-23 232739.png" alt="Blinkit Sales Dashboard" width="900">
 </p>
